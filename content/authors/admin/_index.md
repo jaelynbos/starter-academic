@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jaelyn Bos
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate student in ecology and evolution
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Rutgers University, Pinsky Lab
+  url: https://pinsky.marine.rutgers.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Graduate researcher interested in coral and climate. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Coral reefs
+- Climate adaptation
+- Sustainable development
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD student in Ecology and Evolution
+    institution: Rutgers University
+    year: 
+  - course: BS in Environmental Science
+    institution: University of Maryland, Baltimore County
+    year: 2017
+  - course: BA in Biology
+    institution: University of Maryland, Baltimore County
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +45,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/jaelynbos
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jaelynbos
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jaelyn-bos-347a40aa/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +67,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an PhD student in Ecology and Evolution at Rutgers University, where I study marine ecology in the Pinsky Lab. My current research focuses on the role of microclimates in coral reef adaptation to climate change. Broadly, I'm interested in spatial patterns in ecological change and adaptation, science education, and sustainable development, particularly in southeast Africa. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I earned undergraduate degrees in environmental science and biology from the University of Maryland, Baltimore County (UMBC) in 2017. During my four years there, I worked as research assistant studying urbanization and aquatic invertebrate community composition using data from the Maryland Biological Stream Survey. From 2017 to 2019 I worked as a secondary school biology teacher with the Peace Corps in Mozambique, where I also worked under the Mozambican Ministry of Science, Technology, and Higher Education (Ministério da Ciência, Tecnologia e Ensino Superior) to support the national science fair program and develop a complementary curriculum on the scientific method. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
