@@ -25,13 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student in Ecology and Evolution
-    institution: Rutgers University
-    year: 
-  - course: BS in Environmental Science
-    institution: University of Maryland, Baltimore County
-    year: 2017
-  - course: BA in Biology
+  - course: BS in Environmental Science / BA in Biology
     institution: University of Maryland, Baltimore County
     year: 2017
 
@@ -69,7 +63,6 @@ highlight_name: false
 
 I'm an PhD student in Ecology and Evolution at Rutgers University, where I study marine ecology in the Pinsky Lab. My current research focuses on the role of microclimates in coral reef adaptation to climate change. Broadly, I'm interested in spatial patterns in ecological change and adaptation, science education, and sustainable development, particularly in southeast Africa. 
 
-I earned undergraduate degrees in environmental science and biology from the University of Maryland, Baltimore County (UMBC) in 2017. During my four years there, I worked as research assistant studying urbanization and aquatic invertebrate community composition using data from the Maryland Biological Stream Survey. From 2017 to 2019 I worked as a secondary school biology teacher with the Peace Corps in Mozambique, where I also worked under the Mozambican Ministry of Science, Technology, and Higher Education (Ministério da Ciência, Tecnologia e Ensino Superior) to support the national science fair program and develop a complementary curriculum on the scientific method. 
-
+I earned undergraduate degrees in environmental science and biology from the University of Maryland, Baltimore County (UMBC) in 2017, where I worked as a research assistant in an urban ecology lab. From 2017 to 2019 I taught high school biology with the Peace Corps in Mozambique, where I also worked under the Mozambican Ministry of Science, Technology, and Higher Education to support the national science fair program and develop a complementary curriculum on the scientific method. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
