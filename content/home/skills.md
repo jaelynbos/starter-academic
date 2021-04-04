@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: Skills
 subtitle:
@@ -17,21 +17,25 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 
   icon: python
   icon_pack: fab
   name: Python
 - description: 
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 
   icon: chalkboard-teacher
   icon_pack: fas
   name: Science teaching
-  - description: 
+- description: 
   icon: globe-africa
   icon_pack: fas
   name: Portuguese language
+- description: 
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

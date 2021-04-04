@@ -30,19 +30,19 @@ experience:
     date_end: ''
     description: Modeling global patterns in coral reef microclimates.
         
-  - title: Secondary school biology teacher
+  - title: Secondary School Biology Teacher
     company: Peace Corps Mozambique
     company_url: ''
     location: Nampula Province, Mozambique
-    date_start: '2017-08'
-    date_end: '2019-12'
+    date_start: '2017-08-01'
+    date_end: '2019-12-01'
     description: Taught biology secondary school biology in accordance with Mozambican national curriculum using Portuguese as the language of instruction. Worked with government partners to organize national and provincial science fairs and develop curriculum on the scientific method. 
 
-     - title: Undergraduate Researcher
+  - title: Undergraduate Researcher
     company: University of Maryland, Baltimore County, Baker Lab
     company_url: ''
     location: Baltimore, Maryland
-    date_start: '2014-03'
-    date_end: '2017-06'
+    date_start: '2014-03-01'
+    date_end: '2017-06-01'
     description: Used R to analyze the effects of of urbanization on stream macroinvertebrate community composition. 
 ---
