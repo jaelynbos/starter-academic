@@ -12,7 +12,7 @@ design:
     padding: ["0","0","330px","0"]
   background:
     # Name of image in `assets/media/`.
-    image: lake_malawi.jpg
+    image: IlhaCobra_cylone.JPG
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
