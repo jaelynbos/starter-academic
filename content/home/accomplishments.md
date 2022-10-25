@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2021-04-01"
+  date_start: "2021-09-01"
   description: ""
   organization: National Defense Science and Engineering Graduate Program
   organization_url: 
